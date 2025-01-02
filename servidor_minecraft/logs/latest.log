@@ -1,28 +1,71 @@
-[20:41:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:41:24] [ServerMain/INFO]: Loaded 1290 recipes
-[20:41:24] [ServerMain/INFO]: Loaded 1399 advancements
-[20:41:25] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:41:25] [Server thread/INFO]: Loading properties
-[20:41:25] [Server thread/INFO]: Default game type: SURVIVAL
-[20:41:25] [Server thread/INFO]: Generating keypair
-[20:41:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:41:25] [Server thread/INFO]: Using epoll channel type
-[20:41:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:41:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:41:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:41:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:41:25] [Server thread/INFO]: Preparing level "world"
-[20:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:41:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:41:29] [Server thread/INFO]: Time elapsed: 439 ms
-[20:41:29] [Server thread/INFO]: Done (3.583s)! For help, type "help"
-[20:41:44] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:45022] logged in with entity id 3 at (609.181240641917, 319.0, -77.71003597802112)
-[20:41:44] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[20:42:33] [Server thread/INFO]: [@: Created new objective [bed]]
-[20:45:19] [Server thread/INFO]: [@: Set the time to 1000]
-[20:45:19] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[20:46:38] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Applied effect Strength to [ADMIN] Tnzo_Bv]
-[20:46:58] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Spectator Mode]
-[20:47:04] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Creative Mode]
-[20:49:06] [Server thread/INFO]: Tnzo_Bv lost connection: Disconnected
-[20:49:06] [Server thread/INFO]: [ADMIN] Tnzo_Bv left the game
+[22:30:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:30:18] [ServerMain/INFO]: Loaded 1290 recipes
+[22:30:18] [ServerMain/INFO]: Loaded 1399 advancements
+[22:30:19] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:30:19] [Server thread/INFO]: Loading properties
+[22:30:19] [Server thread/INFO]: Default game type: SURVIVAL
+[22:30:19] [Server thread/INFO]: Generating keypair
+[22:30:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:30:19] [Server thread/INFO]: Using epoll channel type
+[22:30:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:30:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:30:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:30:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:30:19] [Server thread/INFO]: Preparing level "world"
+[22:30:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:30:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:30:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:30:24] [Server thread/INFO]: Time elapsed: 631 ms
+[22:30:24] [Server thread/INFO]: Done (4.264s)! For help, type "help"
+[22:31:09] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:52554] logged in with entity id 4 at (-1256.4461230376214, 55.0, 837.6885390844847)
+[22:31:10] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
+[22:31:11] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:52568] logged in with entity id 124 at (656.7726343510764, 66.25220334025373, 83.91569887445489)
+[22:31:11] [Server thread/INFO]: MIEMBRO Saralutte joined the game
+[22:31:15] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:52588] logged in with entity id 362 at (1202.0766140493613, 62.5875, -1382.471531066556)
+[22:31:15] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
+[22:31:44] [Server thread/INFO]: dayakito01[/[0:0:0:0:0:0:0:1%0]:41564] logged in with entity id 1238 at (-1245.300000011921, 20.0, 921.3762737220445)
+[22:31:44] [Server thread/INFO]: MIEMBRO dayakito01 joined the game
+[22:32:01] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
+[22:32:51] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: The difficulty has been set to Hard]
+[22:33:04] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> profeta
+[22:33:29] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
+[22:33:45] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> dormid
+[22:33:58] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
+[22:34:09] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
+[22:34:11] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
+[22:34:44] [Server thread/INFO]: MIEMBRO dayakito01 was killed by Witch using magic
+[22:34:47] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
+[22:34:50] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO dayakito01]
+[22:34:56] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> tmr
+[22:36:43] [Server thread/INFO]: matoamikita[/[0:0:0:0:0:0:0:1%0]:40472] logged in with entity id 8095 at (-504.3283648688984, -40.0, 345.3062864111484)
+[22:36:43] [Server thread/INFO]: MIEMBRO matoamikita joined the game
+[22:37:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1301, y=67, z=759} jd{x=-1301, y=65, z=759}
+[22:37:34] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> que calor
+[22:37:57] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> espian
+[22:37:58] [Server thread/INFO]: niko78416[/[0:0:0:0:0:0:0:1%0]:49564] logged in with entity id 10788 at (-1245.3015955021424, 20.0, 925.2879641528372)
+[22:37:58] [Server thread/INFO]: MIEMBRO niko78416 joined the game
+[22:38:01] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> hay un zombie
+[22:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=439, y=87, z=507} jd{x=439, y=85, z=508}
+[22:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=439, y=87, z=507} jd{x=439, y=85, z=508}
+[22:38:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=417, y=88, z=528} jd{x=415, y=86, z=528}
+[22:38:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=417, y=88, z=528} jd{x=415, y=86, z=528}
+[22:38:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=412, y=88, z=528} jd{x=411, y=86, z=527}
+[22:38:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=396, y=88, z=530} jd{x=397, y=86, z=530}
+[22:38:58] [Server thread/INFO]: MIEMBRO dayakito01 was slain by Iron Golem
+[22:39:02] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> XDDDD
+[22:39:04] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XD
+[22:39:07] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> tmr reconroso de mierda
+[22:39:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ jd{x=691, y=96, z=-3094} but found not block entity block Block{minecraft:air} at location
+[22:39:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location jd{x=691, y=96, z=-3094}
+[22:39:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=543, y=70, z=622} jd{x=542, y=68, z=621}
+[22:39:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=71, z=624} jd{x=547, y=69, z=624}
+[22:39:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=553, y=71, z=628} jd{x=553, y=69, z=628}
+[22:39:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=553, y=71, z=628} jd{x=553, y=69, z=628}
+[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=571, y=71, z=635} jd{x=573, y=70, z=637}
+[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=571, y=71, z=635} jd{x=573, y=70, z=637}
+[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=572, y=72, z=635} jd{x=573, y=70, z=635}
+[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=572, y=72, z=635} jd{x=573, y=70, z=635}
+[22:39:46] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> comieron empanadas alguna vez
+[22:39:52] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> o no
+[22:39:55] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> no
+[22:39:58] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
