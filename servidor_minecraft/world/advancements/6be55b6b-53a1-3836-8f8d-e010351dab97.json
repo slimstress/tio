@@ -7,6 +7,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-01-02 20:14:04 +0000",
+      "minecraft:beach": "2025-01-02 20:10:44 +0000",
+      "minecraft:dark_forest": "2025-01-02 20:14:07 +0000",
+      "minecraft:ocean": "2025-01-02 20:10:36 +0000",
+      "minecraft:sunflower_plains": "2025-01-02 20:09:08 +0000",
+      "minecraft:river": "2025-01-02 20:10:22 +0000",
+      "minecraft:swamp": "2025-01-02 20:12:09 +0000",
+      "minecraft:windswept_savanna": "2025-01-02 20:12:05 +0000",
       "minecraft:plains": "2025-01-02 15:47:41 +0000"
     },
     "done": false
