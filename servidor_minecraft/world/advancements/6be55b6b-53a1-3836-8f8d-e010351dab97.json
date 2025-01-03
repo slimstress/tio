@@ -51,6 +51,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-03 19:57:40 +0000",
       "bread": "2025-01-02 21:47:52 +0000",
       "rotten_flesh": "2025-01-02 21:49:34 +0000",
       "cooked_mutton": "2025-01-02 22:13:53 +0000",
@@ -2125,6 +2126,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-01-03 18:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-03 19:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-03 19:54:20 +0000"
     },
     "done": true
   },

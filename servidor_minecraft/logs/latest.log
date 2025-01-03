@@ -1,503 +1,81 @@
-[17:54:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[17:54:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[17:54:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:54:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[17:54:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:54:23] [ServerMain/INFO]: Loaded 1290 recipes
-[17:54:23] [ServerMain/INFO]: Loaded 1399 advancements
-[17:54:23] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:54:23] [Server thread/INFO]: Loading properties
-[17:54:23] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[17:54:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:54:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:54:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:54:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:54:25] [Server thread/INFO]: Default game type: SURVIVAL
-[17:54:25] [Server thread/INFO]: Generating keypair
-[17:54:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:54:25] [Server thread/INFO]: Using epoll channel type
-[17:54:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:54:26] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:54:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:54:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:54:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:54:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:54:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:54:26] [Server thread/INFO]: Preparing level "world"
-[17:54:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:54:28] [Server thread/INFO]: Time elapsed: 1682 ms
-[17:54:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:54:28] [Server thread/INFO]: Time elapsed: 247 ms
-[17:54:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:54:28] [Server thread/INFO]: Time elapsed: 98 ms
-[17:54:28] [Server thread/INFO]: [spark] Starting background profiler...
-[17:54:29] [Server thread/INFO]: Done preparing level "world" (3.359s)
-[17:54:29] [Server thread/INFO]: Running delayed init tasks
-[17:54:29] [Server thread/INFO]: Done (19.115s)! For help, type "help"
-[17:54:29] [Server thread/INFO]: Timings Reset
-[17:55:36] [User Authenticator #0/INFO]: UUID of player Tnzo_Bv is 6be55b6b-53a1-3836-8f8d-e010351dab97
-[17:55:38] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[17:55:38] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:52990] logged in with entity id 5 at ([world]-1258.6720062943941, 62.9375, 826.6779800246381)
-[17:59:44] [User Authenticator #1/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
-[17:59:46] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
-[17:59:46] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:46722] logged in with entity id 975 at ([world]-1255.5, 63.5625, 858.5)
-[17:59:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Tnzo_Bv> MAL
-[18:00:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Tnzo_Bv> TENIAS Q ENTRAR 1
-[18:00:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Tnzo_Bv> SERAS BANEADO
-[18:00:19] [Async Chat Thread - #0/INFO]: [Not Secure] <J0hn356> he
-[18:00:25] [Async Chat Thread - #0/INFO]: [Not Secure] <J0hn356> che
-[18:00:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Tnzo_Bv> q
-[18:02:22] [User Authenticator #2/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
-[18:02:22] [Server thread/INFO]: J0hn356 lost connection: You logged in from another location
-[18:02:22] [Server thread/INFO]: MIEMBRO J0hn356 left the game
-[18:02:23] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
-[18:02:24] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:60244] logged in with entity id 1643 at ([world]-1255.5, 63.25818317254246, 858.5)
-[18:02:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Tnzo_Bv> q
-[18:02:41] [Server thread/INFO]: MIEMBRO J0hn356 suffocated in a wall
-[18:02:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Tnzo_Bv> xdddddddddd
-[18:05:21] [Server thread/INFO]: J0hn356 lost connection: Timed out
-[18:05:21] [Server thread/INFO]: MIEMBRO J0hn356 left the game
-[18:05:29] [User Authenticator #3/INFO]: UUID of player SuperPichulin123 is cfa32117-aec0-3578-b0d4-c92b99c2c7dc
-[18:05:31] [Server thread/INFO]: SuperPichulin123 joined the game
-[18:05:31] [Server thread/INFO]: SuperPichulin123[/[0:0:0:0:0:0:0:1%0]:58364] logged in with entity id 2620 at ([world]620.5, 89.0, -92.5)
-[18:05:36] [Async Chat Thread - #4/INFO]: [Not Secure] <SuperPichulin123> hola pq es de noche
-[18:05:40] [Async Chat Thread - #4/INFO]: [Not Secure] <SuperPichulin123> soy timido
-[18:05:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Tnzo_Bv> chevere
-[18:05:44] [Async Chat Thread - #4/INFO]: [Not Secure] <SuperPichulin123> hay vidas limite?
-[18:05:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Tnzo_Bv> no
-[18:05:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Tnzo_Bv> :v
-[18:06:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/op Tnzo_Bv<--[HERE]
-[18:06:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/op Tnzo_Bv<--[HERE]
-[18:06:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/op Tnzo_Bv<--[HERE]
-[18:06:47] [Server thread/INFO]: SuperPichulin123 was shot by Skeleton
-[18:07:11] [Server thread/INFO]: SuperPichulin123 lost connection: Timed out
-[18:07:11] [Server thread/INFO]: SuperPichulin123 left the game
-[18:07:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/op Tnzo_Bv<--[HERE]
-[18:08:31] [Server thread/INFO]: Made Tnzo_Bv a server operator
-[18:08:45] [Server thread/INFO]: Tnzo_Bv issued server command: /team join MIEMBRO SuperPichulin123
-[18:08:45] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Added SuperPichulin123 to team [MIEMBRO]]
-[18:08:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Tnzo_Bv> a
-[18:08:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Tnzo_Bv> a
-[18:10:28] [Server thread/INFO]: [ADMIN] Tnzo_Bv has made the advancement [Cover Me with Diamonds]
-[18:12:22] [User Authenticator #4/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
-[18:12:38] [User Authenticator #4/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
-[18:12:40] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
-[18:12:40] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:38048] logged in with entity id 4051 at ([world]-1255.5, 63.25818317254246, 858.5)
-[18:12:47] [User Authenticator #4/INFO]: UUID of player Tnzo_Bv is 6be55b6b-53a1-3836-8f8d-e010351dab97
-[18:12:47] [Server thread/INFO]: Tnzo_Bv lost connection: You logged in from another location
-[18:12:47] [Server thread/INFO]: [ADMIN] Tnzo_Bv left the game
-[18:12:49] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[18:12:49] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:58648] logged in with entity id 4129 at ([world]-874.3000000119209, -32.0, 1144.840365937234)
-[18:12:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b2c7d[id=6fc1772c-4192-336d-b512-b6ffd88a0ad0,name=J0hn356,properties={}] lost connection: Timed out
-[18:15:03] [Server thread/INFO]: MIEMBRO J0hn356 drowned
-[18:15:27] [Server thread/INFO]: J0hn356 lost connection: Timed out
-[18:15:27] [Server thread/INFO]: MIEMBRO J0hn356 left the game
-[18:16:59] [User Authenticator #5/INFO]: UUID of player SuperPichulin123 is cfa32117-aec0-3578-b0d4-c92b99c2c7dc
-[18:17:01] [Server thread/INFO]: MIEMBRO SuperPichulin123 joined the game
-[18:17:01] [Server thread/INFO]: SuperPichulin123[/[0:0:0:0:0:0:0:1%0]:56852] logged in with entity id 5731 at ([world]752.5912970292869, 64.0, -94.50906245048023)
-[18:17:06] [Async Chat Thread - #8/INFO]: [Not Secure] <SuperPichulin123> OE
-[18:17:09] [Async Chat Thread - #8/INFO]: [Not Secure] <SuperPichulin123> pq morio
-[18:17:10] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> mr
-[18:17:23] [Async Chat Thread - #9/INFO]: [Not Secure] <Tnzo_Bv> Q
-[18:18:02] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> me sali
-[18:18:05] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> pa comprar arroz
-[18:18:08] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> estaba amaneciendo
-[18:18:10] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> todo perfecto
-[18:18:12] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> y
-[18:18:14] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> vegno
-[18:18:15] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> y
-[18:18:17] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> mori
-[18:18:18] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> asi
-[18:18:21] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> tmre
-[18:18:26] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> de la nd
-[18:18:29] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> vine muerto
-[18:18:32] [Async Chat Thread - #9/INFO]: [Not Secure] <SuperPichulin123> yy aes de noche
-[18:18:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Tnzo_Bv> creo que el server anda para la vrga
-[18:18:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Tnzo_Bv> :v
-[18:18:57] [Server thread/INFO]: MIEMBRO SuperPichulin123 has made the advancement [Stone Age]
-[18:19:06] [Server thread/INFO]: MIEMBRO SuperPichulin123 has made the advancement [Getting an Upgrade]
-[18:20:35] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[18:20:46] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> duyerman pe quiero ir arriba
-[18:20:49] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[18:20:53] [Async Chat Thread - #10/INFO]: [Not Secure] <Tnzo_Bv> q
-[18:20:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Tnzo_Bv> arriba donde
-[18:20:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Tnzo_Bv> :v
-[18:21:01] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> toy encerrado abajo
-[18:21:03] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> como una rata
-[18:21:08] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> DEBJAO DE LA TIERRA
-[18:21:11] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> ostia
-[18:21:13] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[18:21:16] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> tengo el shift en mayus
-[18:21:22] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> y por eso a veces escribo en mayus
-[18:21:28] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> no es q este gritando o resaltando algo
-[18:21:30] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> solo es eso
-[18:21:34] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> por si me chupan el pene
-[18:22:17] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> es de dia?
-[18:22:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Tnzo_Bv> no
-[18:22:30] [Async Chat Thread - #10/INFO]: [Not Secure] <SuperPichulin123> avisame pe miamor
-[18:23:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Tnzo_Bv> tmre tengo una paja
-[18:23:41] [Async Chat Thread - #12/INFO]: [Not Secure] <SuperPichulin123> q t kche la paja
-[18:23:45] [Async Chat Thread - #12/INFO]: [Not Secure] <SuperPichulin123> es ahora o nunca
-[18:23:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Tnzo_Bv> si lo hizo
-[18:23:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Tnzo_Bv> me llega al wbo ese leandro de mierda xd
-[18:24:10] [Server thread/INFO]: MIEMBRO SuperPichulin123 has made the advancement [Acquire Hardware]
-[18:24:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Tnzo_Bv> yo creo que mejor borramo el server y me pongo a jugar sons of the forest
-[18:24:52] [Async Chat Thread - #12/INFO]: [Not Secure] <SuperPichulin123> y si mejor la chupas
-[18:25:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Tnzo_Bv> si
-[18:25:05] [Async Chat Thread - #12/INFO]: [Not Secure] <Tnzo_Bv> tmb
-[18:25:31] [Server thread/INFO]: MIEMBRO SuperPichulin123 has made the advancement [Monster Hunter]
-[18:25:51] [Server thread/INFO]: MIEMBRO SuperPichulin123 has made the advancement [Isn't It Iron Pick]
-[18:27:03] [Server thread/INFO]: MIEMBRO SuperPichulin123 was slain by Zombie
-[18:27:14] [Async Chat Thread - #14/INFO]: [Not Secure] <SuperPichulin123> cnch puta
-[18:27:17] [Async Chat Thread - #14/INFO]: [Not Secure] <SuperPichulin123> me dieron de 2
-[18:27:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Tnzo_Bv> como te gusta
-[18:28:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Tnzo_Bv> de 2 soles como estaba el lef
-[18:28:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Tnzo_Bv> Bv
-[18:29:01] [Async Chat Thread - #14/INFO]: [Not Secure] <Tnzo_Bv> bueno talvez entro mas rato
-[18:29:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Tnzo_Bv> -1252 / 59 / 854
-[18:29:16] [Async Chat Thread - #14/INFO]: [Not Secure] <Tnzo_Bv> es la aldea
-[18:29:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Tnzo_Bv> no se para q botan esta hora si ni van a entrar
-[18:29:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Tnzo_Bv> me llega al pincho x1000
-[18:29:57] [Async Chat Thread - #15/INFO]: [Not Secure] <SuperPichulin123> wtf mi escudpo
-[18:29:59] [Async Chat Thread - #15/INFO]: [Not Secure] <SuperPichulin123> cnch la vida
-[18:30:03] [Server thread/INFO]: MIEMBRO SuperPichulin123 was shot by Skeleton
-[18:30:23] [Server thread/INFO]: Tnzo_Bv lost connection: Timed out
-[18:30:23] [Server thread/INFO]: [ADMIN] Tnzo_Bv left the game
-[18:36:06] [User Authenticator #6/INFO]: UUID of player Leadnro is 4aca71c9-ac74-3906-aeee-f08cfa7e93fa
-[18:36:11] [Server thread/INFO]: MIEMBRO Leadnro joined the game
-[18:36:11] [Server thread/INFO]: Leadnro[/[0:0:0:0:0:0:0:1%0]:52540] logged in with entity id 11067 at ([world]-1521.2899305654423, 55.5625, -2618.699999988079)
-[18:36:23] [Async Chat Thread - #16/INFO]: [Not Secure] <Leadnro> ola bebe?
-[18:36:40] [Async Chat Thread - #16/INFO]: [Not Secure] <Leadnro> bebe?
-[18:39:05] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Leadnro]
-[18:39:21] [Server thread/INFO]: MIEMBRO SuperPichulin123 has made the advancement [Sweet Dreams]
-[18:39:21] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO SuperPichulin123]
-[18:39:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Leadnro> ola
-[18:39:29] [Async Chat Thread - #18/INFO]: [Not Secure] <SuperPichulin123> qn pa dormir juntos
-[18:39:30] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO SuperPichulin123]
-[18:39:31] [Async Chat Thread - #18/INFO]: [Not Secure] <Leadnro> bebe¿
-[18:39:39] [Async Chat Thread - #18/INFO]: [Not Secure] <Leadnro> estas ahi
-[18:39:45] [Async Chat Thread - #18/INFO]: [Not Secure] <SuperPichulin123> QUIENE RES
-[18:39:49] [Async Chat Thread - #18/INFO]: [Not Secure] <SuperPichulin123> tu estas muerto apra mi
-[18:39:52] [Async Chat Thread - #18/INFO]: [Not Secure] <SuperPichulin123> APRA
-[18:39:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Leadnro> SOY TU MAYOR ENEMIGO
-[18:39:54] [Async Chat Thread - #18/INFO]: [Not Secure] <SuperPichulin123> viv alan
-[18:41:12] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO SuperPichulin123]
-[18:41:15] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Leadnro]
-[18:41:20] [Async Chat Thread - #20/INFO]: [Not Secure] <Leadnro> duerme pe
-[18:41:27] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Leadnro]
-[18:41:35] [Async Chat Thread - #20/INFO]: [Not Secure] <Leadnro> para qe te tiras a la cama si no duerme
-[18:41:39] [Async Chat Thread - #20/INFO]: [Not Secure] <Leadnro> ctmre
-[18:41:44] [Server thread/INFO]: SuperPichulin123 lost connection: Timed out
-[18:41:44] [Server thread/INFO]: MIEMBRO SuperPichulin123 left the game
-[18:41:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Leadnro> XD
-[18:48:35] [User Authenticator #7/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
-[18:48:39] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
-[18:48:39] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:49344] logged in with entity id 14048 at ([world]711.1049759516109, 45.65855571220273, -95.54690802388807)
-[18:48:44] [Async Chat Thread - #22/INFO]: [Not Secure] <Leadnro> Ola
-[18:48:58] [Async Chat Thread - #22/INFO]: [Not Secure] <J0hn356> hola
-[18:50:34] [Server thread/INFO]: J0hn356 lost connection: Timed out
-[18:50:34] [Server thread/INFO]: MIEMBRO J0hn356 left the game
-[18:58:41] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Hot Stuff]
-[19:08:56] [User Authenticator #8/INFO]: UUID of player Cuack_Bv is 9706fe19-e023-3c1d-abe1-6440997cddc0
-[19:08:58] [Server thread/INFO]: MIEMBRO Cuack_Bv joined the game
-[19:08:58] [Server thread/INFO]: Cuack_Bv[/[0:0:0:0:0:0:0:1%0]:33792] logged in with entity id 16938 at ([world]106.81500729314004, 72.0, -78.91399662208289)
-[19:09:16] [Async Chat Thread - #24/INFO]: [Not Secure] <Leadnro> cuackkk
-[19:10:25] [Async Chat Thread - #26/INFO]: [Not Secure] <Leadnro> cuackkk
-[19:10:49] [Async Chat Thread - #26/INFO]: [Not Secure] <Cuack_Bv> CUAACKKK
-[19:10:52] [Async Chat Thread - #26/INFO]: [Not Secure] <Leadnro> Xdd
-[19:11:05] [Async Chat Thread - #26/INFO]: [Not Secure] <Leadnro> y gabriel
-[19:11:16] [Async Chat Thread - #26/INFO]: [Not Secure] <Cuack_Bv> comiendo creo
-[19:11:19] [Async Chat Thread - #26/INFO]: [Not Secure] <Leadnro> aea
-[19:11:26] [Async Chat Thread - #27/INFO]: [Not Secure] <Leadnro> server muerto ya
-[19:19:39] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [The Cutest Predator]
-[19:22:55] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> cuack estas afk
-[19:23:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Cuack_Bv> no
-[19:23:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> jeje
-[19:23:12] [User Authenticator #9/INFO]: UUID of player niko78416 is d5fc78b0-b4f6-3cd3-98b5-1d61d957309e
-[19:23:14] [Server thread/INFO]: MIEMBRO niko78416 joined the game
-[19:23:14] [Server thread/INFO]: niko78416[/[0:0:0:0:0:0:0:1%0]:49850] logged in with entity id 21440 at ([world]-1237.699999988079, 47.0, 854.7328999218397)
-[19:23:19] [Async Chat Thread - #28/INFO]: [Not Secure] <Cuack_Bv> es el espia anyiricano
-[19:23:20] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> holaaaa
-[19:23:20] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> c niko
-[19:23:32] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> espia angericano
-[19:23:41] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> quien es :V?
-[19:23:42] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> nico estas calaro
-[19:23:45] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> calato++
-[19:23:50] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> xdd
-[19:23:57] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> recien entras?
-[19:24:00] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> SI
-[19:24:08] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ayer entraste?
-[19:24:12] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> XDD
-[19:24:16] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> 55 muertes
-[19:24:17] [User Authenticator #10/INFO]: UUID of player Tnzo_Bv is 6be55b6b-53a1-3836-8f8d-e010351dab97
-[19:24:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> XD
-[19:24:19] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[19:24:19] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:46936] logged in with entity id 22133 at ([world]-1251.699999988079, 56.0, 854.6999999880791)
-[19:24:22] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> c enso
-[19:24:28] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> holanda
-[19:24:31] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> xd
-[19:24:33] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> aa
-[19:24:43] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> mas gente
-[19:24:44] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ma
-[19:24:56] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> toy lag
-[19:24:57] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> xd
-[19:25:47] [Server thread/INFO]: Tnzo_Bv lost connection: Timed out
-[19:25:47] [Server thread/INFO]: [ADMIN] Tnzo_Bv left the game
-[19:25:55] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> xd
-[19:26:06] [User Authenticator #11/INFO]: UUID of player Tnzo_Bv is 6be55b6b-53a1-3836-8f8d-e010351dab97
-[19:26:07] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[19:26:07] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:59588] logged in with entity id 23033 at ([world]-1251.699999988079, 56.0, 854.6999999880791)
-[19:26:14] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> ya
-[19:26:17] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> porfin xd
-[19:26:20] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> xd
-[19:26:26] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> mas gente
-[19:26:30] [Server thread/INFO]: Tnzo_Bv issued server command: /team join ADMIN Tnzo_Bv
-[19:26:30] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Added [ADMIN] Tnzo_Bv to team [ADMIN]]
-[19:26:31] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> aa
-[19:26:48] [Server thread/INFO]: Tnzo_Bv issued server command: /team modify ADMIN color yellow
-[19:26:48] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Updated the color for team [ADMIN] to yellow]
-[19:26:50] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> :v
-[19:27:04] [Server thread/INFO]: Tnzo_Bv issued server command: /team modify ADMIN color white
-[19:27:04] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Updated the color for team [ADMIN] to white]
-[19:27:23] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> bueno solo me vengo a decir
-[19:27:27] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> caya
-[19:27:30] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> y juega
-[19:27:33] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> -1260 / 65 / 858
-[19:27:37] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> sa base
-[19:27:42] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> sdasd
-[19:27:43] [Async Chat Thread - #28/INFO]: [Not Secure] <niko78416> oe
-[19:27:44] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> s
-[19:27:44] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> at
-[19:27:45] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> atatata
-[19:27:45] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> esta buena
-[19:27:45] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> a
-[19:27:45] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> a
-[19:27:47] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> :v
-[19:27:47] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> at
-[19:27:47] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> a
-[19:27:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> t
-[19:27:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> tatat
-[19:27:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> a
-[19:27:50] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> -1260 / 65 / 858
-[19:27:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> at
-[19:27:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> c wbin
-[19:27:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ata
-[19:27:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> a
-[19:27:54] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:54] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> c wbin
-[19:27:54] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:54] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> a
-[19:27:55] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> ta
-[19:27:55] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> at
-[19:27:55] [Async Chat Thread - #29/INFO]: [Not Secure] <Tnzo_Bv> -1260 / 65 / 858
-[19:27:55] [Server thread/INFO]: Leadnro lost connection: Kicked for spamming
-[19:27:55] [Server thread/INFO]: MIEMBRO Leadnro left the game
-[19:27:57] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> XDDDD
-[19:27:59] [User Authenticator #12/INFO]: UUID of player Leadnro is 4aca71c9-ac74-3906-aeee-f08cfa7e93fa
-[19:28:00] [Async Chat Thread - #28/INFO]: [Not Secure] <Tnzo_Bv> por spamear
-[19:28:01] [Server thread/INFO]: MIEMBRO Leadnro joined the game
-[19:28:01] [Server thread/INFO]: Leadnro[/[0:0:0:0:0:0:0:1%0]:53602] logged in with entity id 24014 at ([world]-1581.9361579429785, 73.0, -2559.781734848383)
-[19:28:14] [Async Chat Thread - #28/INFO]: [Not Secure] <Leadnro> c ayudin
-[19:28:22] [Async Chat Thread - #29/INFO]: [Not Secure] <Tnzo_Bv> sos 3 corazones y medio
-[19:28:28] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> sos
-[19:28:37] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> ayuda
-[19:28:38] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> sos
-[19:28:39] [Async Chat Thread - #29/INFO]: [Not Secure] <Tnzo_Bv> void a comer
-[19:28:40] [Async Chat Thread - #29/INFO]: [Not Secure] <Tnzo_Bv> :v
-[19:28:46] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> bete pe
-[19:28:59] [Async Chat Thread - #29/INFO]: [Not Secure] <Tnzo_Bv> le voy a decir a albitez q entre
-[19:29:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> dileeeeeee
-[19:29:04] [Async Chat Thread - #29/INFO]: [Not Secure] <Tnzo_Bv> y bauti
-[19:29:16] [Server thread/INFO]: MIEMBRO Cuack_Bv has made the advancement [Ice Bucket Challenge]
-[19:29:37] [Server thread/INFO]: Tnzo_Bv lost connection: Timed out
-[19:29:37] [Server thread/INFO]: [ADMIN] Tnzo_Bv left the game
-[19:30:01] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> hay tp
-[19:30:05] [Server thread/INFO]: Leadnro issued server command: /tp
-[19:30:09] [Async Chat Thread - #29/INFO]: [Not Secure] <Leadnro> no ay xd
-[19:30:14] [Async Chat Thread - #29/INFO]: [Not Secure] <niko78416> xd
-[19:30:17] [Server thread/INFO]: MIEMBRO Cuack_Bv has made the advancement [Isn't It Iron Pick]
-[19:32:16] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Who is Cutting Onions?]
-[19:32:19] [User Authenticator #13/INFO]: UUID of player Saralutte is 12ad8798-e598-3937-a470-5bceb72fbe8b
-[19:32:23] [Server thread/INFO]: MIEMBRO Saralutte joined the game
-[19:32:23] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:55168] logged in with entity id 26187 at ([world]-1510.5234327019518, 60.0, -2614.233901307256)
-[19:32:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> sa danae
-[19:32:34] [Async Chat Thread - #31/INFO]: [Not Secure] <Saralutte> XD
-[19:32:42] [Server thread/INFO]: MIEMBRO Cuack_Bv has made the advancement [Best Friends Forever]
-[19:32:45] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> ahi voy
-[19:33:08] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[19:33:29] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> 20m diamntes
-[19:33:33] [Async Chat Thread - #31/INFO]: [Not Secure] <Saralutte> mis diamantesszzzzz
-[19:33:39] [Async Chat Thread - #31/INFO]: [Not Secure] <Saralutte> xxxdxxx
-[19:34:02] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> pasa
-[19:34:07] [Server thread/INFO]: MIEMBRO Cuack_Bv was slain by Spider
-[19:34:11] [User Authenticator #14/INFO]: UUID of player Tnzo_Bv is 6be55b6b-53a1-3836-8f8d-e010351dab97
-[19:34:11] [Async Chat Thread - #31/INFO]: [Not Secure] <niko78416> xD
-[19:34:13] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[19:34:13] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:33300] logged in with entity id 27125 at ([world]-1252.699999988079, 59.0, 854.6872737660734)
-[19:34:17] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> somos 5
-[19:34:21] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> falta mass
-[19:34:27] [Server thread/INFO]: Cuack_Bv lost connection: Timed out
-[19:34:27] [Server thread/INFO]: MIEMBRO Cuack_Bv left the game
-[19:34:48] [Async Chat Thread - #31/INFO]: [Not Secure] <Saralutte> xdddxxdxd
-[19:34:50] [Async Chat Thread - #31/INFO]: [Not Secure] <Tnzo_Bv> voy a estar afk pq quiero hierro
-[19:34:54] [Async Chat Thread - #31/INFO]: [Not Secure] <Tnzo_Bv> para tradear
-[19:34:59] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> yay
-[19:35:38] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Leadnro]
-[19:35:42] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO niko78416]
-[19:35:52] [Async Chat Thread - #31/INFO]: [Not Secure] <Leadnro> boy a comer
-[19:35:59] [Async Chat Thread - #32/INFO]: [Not Secure] <Leadnro> NO ROBE
-[19:36:04] [Async Chat Thread - #32/INFO]: [Not Secure] <Saralutte> nnono
-[19:36:06] [Async Chat Thread - #32/INFO]: [Not Secure] <Leadnro> si no te mato
-[19:36:08] [Async Chat Thread - #32/INFO]: [Not Secure] <Saralutte> nomasqueria ver
-[19:36:10] [Async Chat Thread - #32/INFO]: [Not Secure] <Leadnro> jeje
-[19:36:25] [Server thread/INFO]: Leadnro issued server command: /tell Saralutte somos equipo
-[19:36:32] [Server thread/INFO]: Leadnro issued server command: /tell Saralutte no bajes
-[19:36:39] [Server thread/INFO]: Leadnro issued server command: /tell Saralutte ya lutie todo
-[19:37:43] [Async Chat Thread - #33/INFO]: [Not Secure] <Leadnro> q hces xd?
-[19:37:48] [Async Chat Thread - #33/INFO]: [Not Secure] <Saralutte> ns
-[19:37:51] [Async Chat Thread - #33/INFO]: [Not Secure] <Leadnro> aca no bamos a vivir
-[19:37:56] [Async Chat Thread - #33/INFO]: [Not Secure] <Saralutte> ya se
-[19:38:27] [Server thread/INFO]: Leadnro issued server command: /tell Saralutte equipate que nos vamos
-[19:38:34] [Async Chat Thread - #33/INFO]: [Not Secure] <Saralutte> ok
-[19:38:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Saralutte> esperameun ratito
-[19:38:39] [Server thread/INFO]: Leadnro issued server command: /tell Saralutte regreso no mueras
-[19:38:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Saralutte> xddd
-[19:38:48] [User Authenticator #15/INFO]: UUID of player dayakito01 is 423dc879-c739-3072-913e-dc9bfaa77a56
-[19:38:58] [User Authenticator #15/INFO]: UUID of player dayakito01 is 423dc879-c739-3072-913e-dc9bfaa77a56
-[19:39:00] [Server thread/INFO]: MIEMBRO dayakito01 joined the game
-[19:39:00] [Server thread/INFO]: dayakito01[/[0:0:0:0:0:0:0:1%0]:49842] logged in with entity id 28548 at ([world]622.5, 90.0, -90.5)
-[19:39:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@79770d47[id=423dc879-c739-3072-913e-dc9bfaa77a56,name=dayakito01,properties={}] lost connection: Timed out
-[19:39:05] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> yehh
-[19:39:06] [Async Chat Thread - #34/INFO]: [Not Secure] <niko78416> entrare mas tarde xd
-[19:39:09] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> a ke ora
-[19:39:10] [Async Chat Thread - #34/INFO]: [Not Secure] <dayakito01> tepeame
-[19:39:11] [Async Chat Thread - #34/INFO]: [Not Secure] <niko78416> chau chupapis
-[19:39:14] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> a ke ora
-[19:39:22] [Server thread/INFO]: Tnzo_Bv issued server command: /tp dayakito01 Tnzo_Bv
-[19:39:22] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO dayakito01 to [ADMIN] Tnzo_Bv]
-[19:39:29] [Async Chat Thread - #34/INFO]: [Not Secure] <dayakito01> 1 coazon
-[19:39:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Tnzo_Bv> toma
-[19:39:35] [Async Chat Thread - #34/INFO]: [Not Secure] <Tnzo_Bv> xd
-[19:39:38] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> mas mentira
-[19:39:42] [Server thread/INFO]: niko78416 lost connection: Timed out
-[19:39:42] [Server thread/INFO]: MIEMBRO niko78416 left the game
-[19:39:42] [Server thread/INFO]: MIEMBRO dayakito01 has made the advancement [Acquire Hardware]
-[19:39:45] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO dayakito01]
-[19:39:48] [Async Chat Thread - #34/INFO]: [Not Secure] <dayakito01> epico
-[19:39:48] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[19:40:05] [Async Chat Thread - #34/INFO]: [Not Secure] <Tnzo_Bv> q haces xd
-[19:40:15] [Async Chat Thread - #34/INFO]: [Not Secure] <dayakito01> ns
-[19:40:16] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> tocandom
-[19:40:25] [Async Chat Thread - #34/INFO]: [Not Secure] <Tnzo_Bv> ponte a craftear papu
-[19:41:20] [Async Chat Thread - #34/INFO]: [Not Secure] <dayakito01> como hago un escudo?
-[19:41:28] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> fijate el manual
-[19:41:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Leadnro> el librito ese
-[19:41:46] [Async Chat Thread - #33/INFO]: [Not Secure] <Leadnro> berde
-[19:41:51] [Async Chat Thread - #33/INFO]: [Not Secure] <Saralutte> xdxdxdxdxdxdxdxdxdxdxdxdxd
-[19:42:01] [Async Chat Thread - #33/INFO]: [Not Secure] <Leadnro> regreso
-[19:42:31] [Server thread/INFO]: Leadnro lost connection: Timed out
-[19:42:31] [Server thread/INFO]: MIEMBRO Leadnro left the game
-[19:43:02] [Async Chat Thread - #35/INFO]: [Not Secure] <dayakito01> creativo?
-[19:43:08] [Async Chat Thread - #35/INFO]: [Not Secure] <dayakito01> hay un chingo de cosas
-[19:43:19] [Async Chat Thread - #35/INFO]: [Not Secure] <dayakito01> me salte 1 semana de miecraft
-[19:44:20] [Async Chat Thread - #37/INFO]: [Not Secure] <dayakito01> hago mi casa o vivo contigo?
-[19:44:24] [Async Chat Thread - #37/INFO]: [Not Secure] <dayakito01> podemos follar?
-[19:44:35] [Async Chat Thread - #37/INFO]: [Not Secure] <dayakito01> tracy no me la pone como vos
-[19:44:42] [Async Chat Thread - #37/INFO]: [Not Secure] <dayakito01> rrr
-[19:45:16] [Async Chat Thread - #37/INFO]: [Not Secure] <dayakito01> pobre golem
-[19:45:25] [Async Chat Thread - #37/INFO]: [Not Secure] <dayakito01> se quemo con esta lava
-[19:46:13] [Server thread/INFO]: MIEMBRO dayakito01 was blown up by Creeper
-[19:46:22] [Server thread/INFO]: MIEMBRO dayakito01 has made the advancement [Hot Stuff]
-[19:46:33] [Server thread/INFO]: MIEMBRO dayakito01 was slain by [ADMIN] Tnzo_Bv
-[19:46:41] [Async Chat Thread - #39/INFO]: [Not Secure] <Tnzo_Bv> imbecil
-[19:46:45] [Async Chat Thread - #39/INFO]: [Not Secure] <dayakito01> ???
-[19:46:45] [Async Chat Thread - #39/INFO]: [Not Secure] <Tnzo_Bv> XD
-[19:46:51] [Async Chat Thread - #39/INFO]: [Not Secure] <dayakito01> imbecil fue un crepper
-[19:46:51] [Async Chat Thread - #39/INFO]: [Not Secure] <Tnzo_Bv> pq exploto un creeper
-[19:46:55] [Async Chat Thread - #39/INFO]: [Not Secure] <Tnzo_Bv> pero pq lo metes
-[19:46:59] [Async Chat Thread - #39/INFO]: [Not Secure] <dayakito01> estuve con mi tia
-[19:47:05] [Async Chat Thread - #39/INFO]: [Not Secure] <dayakito01> me llamo imbecil quede afk
-[19:47:15] [Async Chat Thread - #39/INFO]: [Not Secure] <Tnzo_Bv> xdd
-[19:47:19] [User Authenticator #16/INFO]: UUID of player Leadnro is 4aca71c9-ac74-3906-aeee-f08cfa7e93fa
-[19:47:21] [Server thread/INFO]: MIEMBRO Leadnro joined the game
-[19:47:21] [Server thread/INFO]: Leadnro[/[0:0:0:0:0:0:0:1%0]:47992] logged in with entity id 30715 at ([world]-1520.9492567354728, 55.0, -2618.6240275963246)
-[19:47:27] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> se cuack
-[19:47:46] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> q cuack
-[19:48:12] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> se salio p
-[19:48:30] [Server thread/INFO]: Saralutte lost connection: Timed out
-[19:48:30] [Server thread/INFO]: MIEMBRO Saralutte left the game
-[19:48:40] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> aea
-[19:49:20] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> hago mi casa?
-[19:49:26] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> casade tierra
-[19:49:32] [User Authenticator #17/INFO]: UUID of player Saralutte is 12ad8798-e598-3937-a470-5bceb72fbe8b
-[19:49:33] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> tu choza
-[19:49:34] [Server thread/INFO]: MIEMBRO Saralutte joined the game
-[19:49:34] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:51936] logged in with entity id 31137 at ([world]-1511.300000011921, 63.0, -2609.687025533271)
-[19:49:44] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> hare la casa de pelusa en minecraft
-[19:49:51] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> de una
-[19:49:53] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> me traen tierra
-[19:50:00] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> la maca
-[19:50:07] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> la karla
-[19:50:10] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> la brenda
-[19:50:16] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> la angi
-[19:50:24] [User Authenticator #17/INFO]: UUID of player Saralutte is 12ad8798-e598-3937-a470-5bceb72fbe8b
-[19:50:24] [Server thread/INFO]: Saralutte lost connection: You logged in from another location
-[19:50:24] [Server thread/INFO]: MIEMBRO Saralutte left the game
-[19:50:25] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> la hannaowo
-[19:50:26] [Server thread/INFO]: MIEMBRO Saralutte joined the game
-[19:50:26] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:46358] logged in with entity id 31302 at ([world]-1515.8733483685978, 57.0, -2618.9543138371214)
-[19:50:27] [Async Chat Thread - #40/INFO]: [Not Secure] <dayakito01> pinga fire
-[19:50:51] [User Authenticator #17/INFO]: UUID of player SuperPichulin123 is cfa32117-aec0-3578-b0d4-c92b99c2c7dc
-[19:50:51] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> c alex
-[19:50:52] [Server thread/INFO]: MIEMBRO SuperPichulin123 joined the game
-[19:50:52] [Server thread/INFO]: SuperPichulin123[/[0:0:0:0:0:0:0:1%0]:58330] logged in with entity id 31409 at ([world]127.5, 39.0, -266.5)
-[19:50:56] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> ola bro
-[19:51:10] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> ya vamonos?
-[19:51:15] [Async Chat Thread - #40/INFO]: [Not Secure] <Saralutte> ya
-[19:51:49] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> vamno
-[19:51:51] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> oe
-[19:51:52] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> tmr
-[19:51:54] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> mi abue
-[19:51:55] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> la
-[19:51:59] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> se mequedo hablando
-[19:52:01] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> 1 hora media
-[19:52:02] [Async Chat Thread - #40/INFO]: [Not Secure] <Saralutte> ya
-[19:52:03] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> XD
-[19:52:06] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> y
-[19:52:09] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> recien vo a jugar
-[19:52:11] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> xde
-[19:52:12] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> enzo dejalo hasta las 9
-[19:52:15] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> XD
-[19:52:17] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> sacrifico el ipna por esto
-[19:52:18] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> ya
-[19:52:24] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> ipna o brita
-[19:52:33] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> estas en el icpna? xd
-[19:52:42] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> figo es p
-[19:53:01] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> c afk
-[19:53:01] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> mas wbon para estar en el britanico y empezar denuevo en el icpna
-[19:53:06] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> c afk
-[19:53:08] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> c gabo
-[19:53:20] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> es noche p
-[19:53:25] [Async Chat Thread - #40/INFO]: [Not Secure] <Saralutte> aya
-[19:53:26] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> mas problable q te mueras
-[19:53:28] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> oe no existe tuto de como poner plugins en este servido
-[19:53:30] [Async Chat Thread - #40/INFO]: [Not Secure] <Saralutte> xdDDDX
-[19:53:37] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> y trate de poner
-[19:53:40] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> pero no puedo
-[19:53:42] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> es dificil :,v
-[19:54:02] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> dejale a alez
-[19:54:18] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> no hay tuto
-[19:55:01] [Async Chat Thread - #40/INFO]: [Not Secure] <SuperPichulin123> mi vida
-[19:55:04] [Async Chat Thread - #40/INFO]: [Not Secure] <Tnzo_Bv> c albi afk
-[19:55:24] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> estoy comiendo
-[19:55:25] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> gam
-[19:55:37] [Async Chat Thread - #40/INFO]: [Not Secure] <Saralutte> es no sabia que se hiba a morir XDXDDXXDX
-[19:55:51] [Async Chat Thread - #40/INFO]: [Not Secure] <Leadnro> 1 mas y bane
+[20:02:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[20:02:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[20:02:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:02:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[20:02:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:02:40] [ServerMain/INFO]: Loaded 1290 recipes
+[20:02:40] [ServerMain/INFO]: Loaded 1399 advancements
+[20:02:41] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:02:41] [Server thread/INFO]: Loading properties
+[20:02:41] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[20:02:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:02:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:02:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:02:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:02:43] [Server thread/INFO]: Default game type: SURVIVAL
+[20:02:43] [Server thread/INFO]: Generating keypair
+[20:02:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:02:43] [Server thread/INFO]: Using epoll channel type
+[20:02:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:02:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:02:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:02:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:02:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:02:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:02:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:02:44] [Server thread/INFO]: Preparing level "world"
+[20:02:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:02:47] [Server thread/INFO]: Time elapsed: 2793 ms
+[20:02:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:02:47] [Server thread/INFO]: Time elapsed: 308 ms
+[20:02:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:02:47] [Server thread/INFO]: Time elapsed: 93 ms
+[20:02:47] [Server thread/INFO]: [spark] Starting background profiler...
+[20:02:48] [Server thread/INFO]: Done preparing level "world" (4.173s)
+[20:02:48] [Server thread/INFO]: Running delayed init tasks
+[20:02:48] [Server thread/INFO]: Done (16.919s)! For help, type "help"
+[20:02:48] [Server thread/INFO]: Timings Reset
+[20:04:08] [User Authenticator #0/INFO]: UUID of player Leadnro is 4aca71c9-ac74-3906-aeee-f08cfa7e93fa
+[20:04:10] [Server thread/INFO]: MIEMBRO Leadnro joined the game
+[20:04:10] [Server thread/INFO]: Leadnro[/[0:0:0:0:0:0:0:1%0]:59000] logged in with entity id 5 at ([world]-1517.7046263021527, 58.0, -2616.927069302892)
+[20:04:11] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 4e127a96-deae-41b8-b8ca-57c73793d83d, mapped to EnderMan['Enderman'/30, uuid='4e127a96-deae-41b8-b8ca-57c73793d83d', l='ServerLevel[world]', x=-1511.70, y=54.00, z=-2666.26, cpos=[-95, -167], tl=9877, v=true], can't add EnderMan['Enderman'/45, uuid='4e127a96-deae-41b8-b8ca-57c73793d83d', l='ServerLevel[world]', x=-1501.48, y=54.00, z=-2657.33, cpos=[-94, -167], tl=12119, v=false]
+[20:04:11] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: dba649db-a1f7-445a-969e-586cdc0d2ec3, mapped to Zombie['Zombie'/98, uuid='dba649db-a1f7-445a-969e-586cdc0d2ec3', l='ServerLevel[world]', x=-1478.72, y=12.00, z=-2697.51, cpos=[-93, -169], tl=93736, v=true], can't add Zombie['Zombie'/127, uuid='dba649db-a1f7-445a-969e-586cdc0d2ec3', l='ServerLevel[world]', x=-1471.31, y=12.00, z=-2702.69, cpos=[-92, -169], tl=89490, v=false]
+[20:04:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 12aaa3db-c979-4082-bcfc-1182b0cf4c1f, mapped to Bat['Bat'/145, uuid='12aaa3db-c979-4082-bcfc-1182b0cf4c1f', l='ServerLevel[world]', x=-1614.32, y=23.35, z=-2578.80, cpos=[-101, -162], tl=313, v=true], can't add Bat['Bat'/149, uuid='12aaa3db-c979-4082-bcfc-1182b0cf4c1f', l='ServerLevel[world]', x=-1616.08, y=23.03, z=-2579.75, cpos=[-102, -162], tl=321, v=false]
+[20:04:56] [User Authenticator #0/INFO]: UUID of player Saralutte is 12ad8798-e598-3937-a470-5bceb72fbe8b
+[20:04:58] [Server thread/INFO]: MIEMBRO Saralutte joined the game
+[20:04:58] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:33762] logged in with entity id 220 at ([world]-1517.8798224613158, 57.0, -2617.7900550569884)
+[20:05:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Leadnro> jeje
+[20:05:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Leadnro> vamnos
+[20:05:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Saralutte> ekisde
+[20:05:23] [User Authenticator #0/INFO]: UUID of player dayakito01 is 423dc879-c739-3072-913e-dc9bfaa77a56
+[20:05:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Saralutte> ya vamoss
+[20:05:25] [Server thread/INFO]: MIEMBRO dayakito01 joined the game
+[20:05:25] [Server thread/INFO]: dayakito01[/[0:0:0:0:0:0:0:1%0]:32964] logged in with entity id 261 at ([world]-1256.4167312108152, 63.0, 850.7230081894678)
+[20:05:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Saralutte> sssszzzzzzzzzzzzzzzzzzzzzzzzz
+[20:05:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Leadnro> llamada
+[20:05:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Leadnro> contesta
+[20:05:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Saralutte> aaaaaaaaaaaaaaaaaaaaaa
+[20:06:29] [Server thread/INFO]: Saralutte lost connection: Timed out
+[20:06:29] [Server thread/INFO]: MIEMBRO Saralutte left the game
+[20:07:12] [User Authenticator #1/INFO]: UUID of player Saralutte is 12ad8798-e598-3937-a470-5bceb72fbe8b
+[20:07:14] [Server thread/INFO]: MIEMBRO Saralutte joined the game
+[20:07:14] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:42518] logged in with entity id 881 at ([world]-1515.7329622893647, 57.0, -2618.856972896577)
+[20:07:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Leadnro> YA
+[20:07:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Saralutte> ayyayayayaya
+[20:07:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Leadnro> contesta
+[20:07:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Leadnro> p
+[20:07:51] [Async Chat Thread - #2/INFO]: [Not Secure] <Saralutte> ya conntesteeeeeeeeee
+[20:07:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Leadnro> llamada wazap
+[20:11:42] [User Authenticator #2/INFO]: UUID of player JManu_14 is 98a2085f-32a3-34a1-8f06-2eb6c803ddbe
+[20:11:44] [Server thread/INFO]: MIEMBRO JManu_14 joined the game
+[20:11:44] [Server thread/INFO]: JManu_14[/[0:0:0:0:0:0:0:1%0]:36388] logged in with entity id 2140 at ([world]617.7534741026781, 93.0, -80.7383702839884)
+[20:11:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Leadnro> MANUEEEL
+[20:12:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Leadnro> MANUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEELs
+[20:12:06] [Async Chat Thread - #4/INFO]: [Not Secure] <JManu_14> XD
+[20:12:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Leadnro> be
+[20:12:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Leadnro> poniendote
+[20:12:20] [User Authenticator #2/INFO]: UUID of player Cuack_Bv is 9706fe19-e023-3c1d-abe1-6440997cddc0
+[20:12:22] [Server thread/INFO]: MIEMBRO Cuack_Bv joined the game
+[20:12:22] [Server thread/INFO]: Cuack_Bv[/[0:0:0:0:0:0:0:1%0]:48652] logged in with entity id 2559 at ([world]531.4278051597439, 68.0, 167.2002979650519)
+[20:12:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Leadnro> XD
+[20:12:29] [Async Chat Thread - #4/INFO]: [Not Secure] <Leadnro> NO TE MUERAS
