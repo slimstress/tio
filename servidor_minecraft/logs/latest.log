@@ -55,3 +55,41 @@
 [18:02:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Tnzo_Bv> q
 [18:02:41] [Server thread/INFO]: MIEMBRO J0hn356 suffocated in a wall
 [18:02:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Tnzo_Bv> xdddddddddd
+[18:05:21] [Server thread/INFO]: J0hn356 lost connection: Timed out
+[18:05:21] [Server thread/INFO]: MIEMBRO J0hn356 left the game
+[18:05:29] [User Authenticator #3/INFO]: UUID of player SuperPichulin123 is cfa32117-aec0-3578-b0d4-c92b99c2c7dc
+[18:05:31] [Server thread/INFO]: SuperPichulin123 joined the game
+[18:05:31] [Server thread/INFO]: SuperPichulin123[/[0:0:0:0:0:0:0:1%0]:58364] logged in with entity id 2620 at ([world]620.5, 89.0, -92.5)
+[18:05:36] [Async Chat Thread - #4/INFO]: [Not Secure] <SuperPichulin123> hola pq es de noche
+[18:05:40] [Async Chat Thread - #4/INFO]: [Not Secure] <SuperPichulin123> soy timido
+[18:05:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Tnzo_Bv> chevere
+[18:05:44] [Async Chat Thread - #4/INFO]: [Not Secure] <SuperPichulin123> hay vidas limite?
+[18:05:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Tnzo_Bv> no
+[18:05:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Tnzo_Bv> :v
+[18:06:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/op Tnzo_Bv<--[HERE]
+[18:06:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/op Tnzo_Bv<--[HERE]
+[18:06:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/op Tnzo_Bv<--[HERE]
+[18:06:47] [Server thread/INFO]: SuperPichulin123 was shot by Skeleton
+[18:07:11] [Server thread/INFO]: SuperPichulin123 lost connection: Timed out
+[18:07:11] [Server thread/INFO]: SuperPichulin123 left the game
+[18:07:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/op Tnzo_Bv<--[HERE]
+[18:08:31] [Server thread/INFO]: Made Tnzo_Bv a server operator
+[18:08:45] [Server thread/INFO]: Tnzo_Bv issued server command: /team join MIEMBRO SuperPichulin123
+[18:08:45] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Added SuperPichulin123 to team [MIEMBRO]]
+[18:08:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Tnzo_Bv> a
+[18:08:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Tnzo_Bv> a
+[18:10:28] [Server thread/INFO]: [ADMIN] Tnzo_Bv has made the advancement [Cover Me with Diamonds]
+[18:12:22] [User Authenticator #4/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
+[18:12:38] [User Authenticator #4/INFO]: UUID of player J0hn356 is 6fc1772c-4192-336d-b512-b6ffd88a0ad0
+[18:12:40] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
+[18:12:40] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:38048] logged in with entity id 4051 at ([world]-1255.5, 63.25818317254246, 858.5)
+[18:12:47] [User Authenticator #4/INFO]: UUID of player Tnzo_Bv is 6be55b6b-53a1-3836-8f8d-e010351dab97
+[18:12:47] [Server thread/INFO]: Tnzo_Bv lost connection: You logged in from another location
+[18:12:47] [Server thread/INFO]: [ADMIN] Tnzo_Bv left the game
+[18:12:49] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
+[18:12:49] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:58648] logged in with entity id 4129 at ([world]-874.3000000119209, -32.0, 1144.840365937234)
+[18:12:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b2c7d[id=6fc1772c-4192-336d-b512-b6ffd88a0ad0,name=J0hn356,properties={}] lost connection: Timed out
