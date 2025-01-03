@@ -15,6 +15,7 @@
       "minecraft:river": "2025-01-02 23:39:53 +0000",
       "minecraft:stony_shore": "2025-01-03 00:09:47 +0000",
       "minecraft:snowy_plains": "2025-01-03 00:58:37 +0000",
+      "minecraft:lush_caves": "2025-01-03 19:16:54 +0000",
       "minecraft:snowy_taiga": "2025-01-03 00:58:21 +0000",
       "minecraft:deep_cold_ocean": "2025-01-02 23:55:09 +0000",
       "minecraft:ocean": "2025-01-02 23:53:38 +0000",
@@ -495,12 +496,15 @@
       "chicken": "2025-01-03 00:51:31 +0000",
       "golden_apple": "2025-01-03 00:35:34 +0000",
       "bread": "2025-01-03 19:06:53 +0000",
-      "cooked_chicken": "2025-01-03 00:25:43 +0000",
       "rotten_flesh": "2025-01-03 01:00:51 +0000",
       "cooked_mutton": "2025-01-02 23:38:17 +0000",
+      "glow_berries": "2025-01-03 19:11:43 +0000",
       "sweet_berries": "2025-01-03 00:45:22 +0000",
       "cooked_beef": "2025-01-02 23:53:52 +0000",
-      "porkchop": "2025-01-02 23:55:08 +0000"
+      "porkchop": "2025-01-02 23:55:08 +0000",
+      "tropical_fish": "2025-01-03 19:20:48 +0000",
+      "cooked_chicken": "2025-01-03 00:25:43 +0000",
+      "carrot": "2025-01-03 19:13:21 +0000"
     },
     "done": false
   },
@@ -1836,6 +1840,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-03 18:58:41 +0000"
@@ -1926,6 +1942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-03 19:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-03 19:03:40 +0000"
@@ -1938,6 +1966,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-03 19:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-03 18:53:29 +0000"
@@ -1947,6 +1987,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-03 18:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-01-03 19:19:39 +0000"
     },
     "done": true
   },
