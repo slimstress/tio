@@ -64,3 +64,26 @@
 [16:43:20] [Server thread/INFO]: Tnzo_Bv issued server command: /plugins
 [16:44:21] [Server thread/INFO]: Tnzo_Bv issued server command: /reload
 [16:44:21] [Server thread/INFO]: Tnzo_Bv: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[16:50:44] [Server thread/INFO]: Tnzo_Bv issued server command: /gamerule keepInventory true
+[16:50:44] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Gamerule keepInventory is now set to: true]
+[16:50:55] [Server thread/INFO]: Tnzo_Bv issued server command: /kill
+[16:50:55] [Server thread/INFO]: [ADMIN] Tnzo_Bv was killed
+[16:50:55] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Killed [ADMIN] Tnzo_Bv]
+[16:51:06] [Server thread/INFO]: Tnzo_Bv issued server command: /kill
+[16:51:06] [Server thread/INFO]: [ADMIN] Tnzo_Bv was killed
+[16:51:06] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Killed [ADMIN] Tnzo_Bv]
+[16:51:11] [Server thread/INFO]: Tnzo_Bv issued server command: /gamemode spectator
+[16:51:11] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Spectator Mode]
+[16:51:19] [Server thread/INFO]: Tnzo_Bv issued server command: /gamerule keepInventory false
+[16:51:19] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Gamerule keepInventory is now set to: false]
+[16:51:47] [Server thread/INFO]: Tnzo_Bv issued server command: /gamemode creative
+[16:51:47] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Creative Mode]
+[16:52:45] [Server thread/INFO]: [@: Set the time to 1000]
+[16:52:45] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
+[16:53:34] [Server thread/INFO]: Tnzo_Bv issued server command: /tp -1500 70 800
+[16:53:34] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported [ADMIN] Tnzo_Bv to -1499.500000, 70.000000, 800.500000]
+[16:53:55] [Server thread/INFO]: Tnzo_Bv issued server command: /gamemode survival
+[16:53:55] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Survival Mode]
+[16:54:15] [Server thread/INFO]: Tnzo_Bv issued server command: /deop
+[16:54:18] [Server thread/INFO]: Tnzo_Bv issued server command: /deop Tnzo_Bv
+[16:54:18] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Made Tnzo_Bv no longer a server operator]
