@@ -17,6 +17,7 @@
       "minecraft:deep_ocean": "2025-01-02 21:42:49 +0000",
       "minecraft:river": "2025-01-02 20:10:22 +0000",
       "minecraft:snowy_plains": "2025-01-02 23:08:48 +0000",
+      "minecraft:snowy_taiga": "2025-01-03 01:27:45 +0000",
       "minecraft:deep_cold_ocean": "2025-01-02 22:53:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-02 20:14:04 +0000",
       "minecraft:frozen_ocean": "2025-01-02 23:08:35 +0000",
@@ -1827,9 +1828,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_book": "2025-01-03 00:38:05 +0000"
+      "has_emerald": "2025-01-03 00:29:58 +0000"
     },
     "done": true
   },
@@ -1851,15 +1852,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-03 00:37:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_emerald": "2025-01-03 00:29:58 +0000"
+      "shot_crossbow": "2025-01-03 00:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 00:38:05 +0000"
     },
     "done": true
   },
@@ -1869,13 +1900,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_redstone": "2025-01-03 00:31:16 +0000"
+      "has_book": "2025-01-03 00:38:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-03 00:38:05 +0000"
     },
@@ -1887,15 +1918,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "used_totem": "2025-01-03 00:55:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-03 00:38:05 +0000"
+      "has_glowstone_dust": "2025-01-03 00:38:06 +0000"
     },
     "done": true
   },
@@ -1905,33 +1930,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_redstone": "2025-01-03 00:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-03 00:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-01-03 00:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-01-03 00:37:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-01-03 00:31:16 +0000"
+      "used_totem": "2025-01-03 00:55:58 +0000"
     },
     "done": true
   },
