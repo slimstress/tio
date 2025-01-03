@@ -287,7 +287,8 @@
       "minecraft:zombie": "2025-01-02 21:06:58 +0000",
       "minecraft:creeper": "2025-01-02 21:33:10 +0000",
       "minecraft:zombie_villager": "2025-01-02 23:33:20 +0000",
-      "minecraft:ravager": "2025-01-03 00:31:34 +0000"
+      "minecraft:ravager": "2025-01-03 00:31:34 +0000",
+      "minecraft:evoker": "2025-01-03 00:51:09 +0000"
     },
     "done": false
   },
@@ -1700,6 +1701,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-03 00:52:40 +0000"
     },
     "done": true
   },
