@@ -164,13 +164,16 @@
     "criteria": {
       "minecraft:pillager": "2025-01-02 22:43:19 +0000",
       "minecraft:skeleton": "2025-01-02 20:32:20 +0000",
+      "minecraft:vindicator": "2025-01-03 00:30:57 +0000",
       "minecraft:enderman": "2025-01-02 20:33:00 +0000",
       "minecraft:witch": "2025-01-02 21:29:12 +0000",
       "minecraft:spider": "2025-01-02 20:32:52 +0000",
+      "minecraft:vex": "2025-01-03 00:37:56 +0000",
       "minecraft:zombie": "2025-01-02 20:32:24 +0000",
       "minecraft:creeper": "2025-01-02 20:32:37 +0000",
       "minecraft:drowned": "2025-01-02 21:15:30 +0000",
-      "minecraft:zombie_villager": "2025-01-03 00:15:36 +0000"
+      "minecraft:zombie_villager": "2025-01-03 00:15:36 +0000",
+      "minecraft:evoker": "2025-01-03 00:36:46 +0000"
     },
     "done": false
   },
@@ -1824,9 +1827,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-03 00:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-03 00:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-03 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-03 00:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-03 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-03 00:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-03 00:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 00:31:16 +0000"
     },
     "done": true
   },
