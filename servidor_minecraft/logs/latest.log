@@ -1,352 +1,63 @@
-[22:30:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:30:18] [ServerMain/INFO]: Loaded 1290 recipes
-[22:30:18] [ServerMain/INFO]: Loaded 1399 advancements
-[22:30:19] [Server thread/INFO]: Starting minecraft server version 1.21
-[22:30:19] [Server thread/INFO]: Loading properties
-[22:30:19] [Server thread/INFO]: Default game type: SURVIVAL
-[22:30:19] [Server thread/INFO]: Generating keypair
-[22:30:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:30:19] [Server thread/INFO]: Using epoll channel type
-[22:30:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:30:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:30:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:30:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:30:19] [Server thread/INFO]: Preparing level "world"
-[22:30:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:30:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:30:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:30:24] [Server thread/INFO]: Time elapsed: 631 ms
-[22:30:24] [Server thread/INFO]: Done (4.264s)! For help, type "help"
-[22:31:09] [Server thread/INFO]: Tnzo_Bv[/[0:0:0:0:0:0:0:1%0]:52554] logged in with entity id 4 at (-1256.4461230376214, 55.0, 837.6885390844847)
-[22:31:10] [Server thread/INFO]: [ADMIN] Tnzo_Bv joined the game
-[22:31:11] [Server thread/INFO]: Saralutte[/[0:0:0:0:0:0:0:1%0]:52568] logged in with entity id 124 at (656.7726343510764, 66.25220334025373, 83.91569887445489)
-[22:31:11] [Server thread/INFO]: MIEMBRO Saralutte joined the game
-[22:31:15] [Server thread/INFO]: J0hn356[/[0:0:0:0:0:0:0:1%0]:52588] logged in with entity id 362 at (1202.0766140493613, 62.5875, -1382.471531066556)
-[22:31:15] [Server thread/INFO]: MIEMBRO J0hn356 joined the game
-[22:31:44] [Server thread/INFO]: dayakito01[/[0:0:0:0:0:0:0:1%0]:41564] logged in with entity id 1238 at (-1245.300000011921, 20.0, 921.3762737220445)
-[22:31:44] [Server thread/INFO]: MIEMBRO dayakito01 joined the game
-[22:32:01] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[22:32:51] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: The difficulty has been set to Hard]
-[22:33:04] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> profeta
-[22:33:29] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[22:33:45] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> dormid
-[22:33:58] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[22:34:09] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[22:34:11] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[22:34:44] [Server thread/INFO]: MIEMBRO dayakito01 was killed by Witch using magic
-[22:34:47] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[22:34:50] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO dayakito01]
-[22:34:56] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> tmr
-[22:36:43] [Server thread/INFO]: matoamikita[/[0:0:0:0:0:0:0:1%0]:40472] logged in with entity id 8095 at (-504.3283648688984, -40.0, 345.3062864111484)
-[22:36:43] [Server thread/INFO]: MIEMBRO matoamikita joined the game
-[22:37:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1301, y=67, z=759} jd{x=-1301, y=65, z=759}
-[22:37:34] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> que calor
-[22:37:57] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> espian
-[22:37:58] [Server thread/INFO]: niko78416[/[0:0:0:0:0:0:0:1%0]:49564] logged in with entity id 10788 at (-1245.3015955021424, 20.0, 925.2879641528372)
-[22:37:58] [Server thread/INFO]: MIEMBRO niko78416 joined the game
-[22:38:01] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> hay un zombie
-[22:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=439, y=87, z=507} jd{x=439, y=85, z=508}
-[22:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=439, y=87, z=507} jd{x=439, y=85, z=508}
-[22:38:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=417, y=88, z=528} jd{x=415, y=86, z=528}
-[22:38:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=417, y=88, z=528} jd{x=415, y=86, z=528}
-[22:38:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=412, y=88, z=528} jd{x=411, y=86, z=527}
-[22:38:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=396, y=88, z=530} jd{x=397, y=86, z=530}
-[22:38:58] [Server thread/INFO]: MIEMBRO dayakito01 was slain by Iron Golem
-[22:39:02] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> XDDDD
-[22:39:04] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XD
-[22:39:07] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> tmr reconroso de mierda
-[22:39:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ jd{x=691, y=96, z=-3094} but found not block entity block Block{minecraft:air} at location
-[22:39:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location jd{x=691, y=96, z=-3094}
-[22:39:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=543, y=70, z=622} jd{x=542, y=68, z=621}
-[22:39:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=71, z=624} jd{x=547, y=69, z=624}
-[22:39:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=553, y=71, z=628} jd{x=553, y=69, z=628}
-[22:39:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=553, y=71, z=628} jd{x=553, y=69, z=628}
-[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=571, y=71, z=635} jd{x=573, y=70, z=637}
-[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=571, y=71, z=635} jd{x=573, y=70, z=637}
-[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=572, y=72, z=635} jd{x=573, y=70, z=635}
-[22:39:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=572, y=72, z=635} jd{x=573, y=70, z=635}
-[22:39:46] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> comieron empanadas alguna vez
-[22:39:52] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> o no
-[22:39:55] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> no
-[22:39:58] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
-[22:40:14] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> guarden spawn papus
-[22:40:37] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> perdon comi un browne medio raro
-[22:40:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=686, y=64, z=767} jd{x=687, y=63, z=766}
-[22:40:48] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> xd
-[22:41:24] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> guarda pi
-[22:41:25] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> omaigad
-[22:41:27] [Server thread/INFO]: [ADMIN] Tnzo_Bv has made the advancement [Diamonds!]
-[22:41:37] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> un pico
-[22:41:46] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> trabaja esclavo
-[22:41:48] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> gracias
-[22:41:55] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> sere andrade
-[22:42:03] [Server thread/INFO]: [Not Secure] <MIEMBRO niko78416> xD
-[22:42:10] [Server thread/INFO]: MIEMBRO dayakito01 has made the advancement [Monster Hunter]
-[22:42:27] [Server thread/INFO]: MIEMBRO Saralutte has made the advancement [What a Deal!]
-[22:43:19] [Server thread/INFO]: [ADMIN] Tnzo_Bv has made the advancement [Voluntary Exile]
-[22:43:27] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> monrrou me pones agua
-[22:43:28] [Server thread/INFO]: niko78416 lost connection: Timed out
-[22:43:28] [Server thread/INFO]: MIEMBRO niko78416 left the game
-[22:43:28] [Server thread/WARN]: handleDisconnection() called twice
-[22:43:59] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> enzoo
-[22:44:09] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> tirame agua tengo 12 de hierro
-[22:44:13] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> no puedo subir
-[22:44:19] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> donde
-[22:44:26] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> en la cuevcaç
-[22:45:19] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> como llego ahi
-[22:45:26] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> nsç
-[22:45:34] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> no esty lejos
-[22:45:40] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> solo baja y tira agua
-[22:46:01] [Server thread/INFO]: byAmbu[/[0:0:0:0:0:0:0:1%0]:46506] logged in with entity id 19509 at (-493.8278233069585, -33.46415937495544, 344.04108441810166)
-[22:46:01] [Server thread/INFO]: MIEMBRO byAmbu joined the game
-[22:46:22] [Server thread/INFO]: [ADMIN] Tnzo_Bv has made the advancement [Hot Stuff]
-[22:46:38] [Server thread/INFO]: MIEMBRO dayakito01 was shot by Skeleton
-[22:46:42] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> tira agua dice
-[22:46:43] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
-[22:46:48] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> TEPEAMEEEEEEEEEEEEE
-[22:46:49] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported [ADMIN] Tnzo_Bv to MIEMBRO dayakito01]
-[22:46:58] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> VOS NO IMBECIL
-[22:47:01] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
-[22:47:03] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> COMO LLLEGO
-[22:47:09] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> MAL AMIGO
-[22:47:14] [Server thread/INFO]: matoamikita lost connection: Timed out
-[22:47:14] [Server thread/INFO]: MIEMBRO matoamikita left the game
-[22:47:14] [Server thread/WARN]: handleDisconnection() called twice
-[22:47:17] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XD
-[22:47:24] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> espera a niko
-[22:47:49] [Server thread/INFO]: MIEMBRO dayakito01 hit the ground too hard
-[22:48:51] [Server thread/INFO]: MIEMBRO dayakito01 tried to swim in lava
-[22:49:10] [Server thread/INFO]: matoamikita[/[0:0:0:0:0:0:0:1%0]:47736] logged in with entity id 23024 at (-572.0821125632694, -30.0, 339.69999998807907)
-[22:49:10] [Server thread/INFO]: MIEMBRO matoamikita joined the game
-[22:49:17] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> JKUGAMOS MÑN MEJOR
-[22:49:21] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> ME DARE UNA PAJA
-[22:49:24] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XD
-[22:49:25] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> SON LAS 7
-[22:49:37] [Server thread/INFO]: [Not Secure] <MIEMBRO dayakito01> O ME LLEVAS A MI CASA O ME VOY
-[22:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=619, y=91, z=-84}
-[22:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=619, y=91, z=-85}
-[22:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=91, z=-85}
-[22:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=617, y=91, z=-84}
-[22:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=91, z=-84}
-[22:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=91, z=-83}
-[22:49:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=91, z=-82}
-[22:49:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=619, y=92, z=-82}
-[22:49:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=91, z=-82}
-[22:49:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=92, z=-81}
-[22:49:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=92, z=-80}
-[22:49:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=92, z=-81}
-[22:49:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=618, y=92, z=-80}
-[22:49:44] [Server thread/INFO]: MIEMBRO byAmbu was shot by Skeleton
-[22:49:47] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> espera p
-[22:50:13] [Server thread/INFO]: MIEMBRO dayakito01 drowned
-[22:50:19] [Server thread/INFO]: MIEMBRO byAmbu hit the ground too hard while trying to escape Zombie
-[22:50:34] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Adventure Mode]
-[22:50:35] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Survival Mode]
-[22:50:44] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Creative Mode]
-[22:50:53] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Set own game mode to Survival Mode]
-[22:50:53] [Server thread/INFO]: MIEMBRO byAmbu was shot by Skeleton
-[22:50:56] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> ptmre
-[22:51:23] [Server thread/INFO]: MIEMBRO byAmbu was shot by Skeleton
-[22:51:53] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:52:14] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:52:33] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:52:47] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:53:01] [Server thread/INFO]: MIEMBRO J0hn356 was blown up by Creeper
-[22:53:13] [Server thread/INFO]: MIEMBRO Saralutte was shot by Pillager
-[22:53:13] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:53:19] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> verga
-[22:53:32] [Server thread/INFO]: dayakito01 lost connection: Timed out
-[22:53:32] [Server thread/INFO]: MIEMBRO dayakito01 left the game
-[22:53:32] [Server thread/WARN]: handleDisconnection() called twice
-[22:53:43] [Server thread/INFO]: Villager cmk['Villager'/30642, l='ServerLevel[world]', x=702.62, y=83.00, z=807.70] died, message: 'Villager was slain by Zombie'
-[22:54:11] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:54:43] [Server thread/INFO]: MIEMBRO matoamikita was slain by Zombie
-[22:54:46] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> me llego la hora
-[22:56:38] [Server thread/INFO]: MIEMBRO Saralutte fell from a high place
-[22:57:01] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO byAmbu]
-[22:57:56] [Server thread/INFO]: MIEMBRO matoamikita was blown up by Creeper
-[22:58:06] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> -2103 / 71 / 228 otra aldea
-[22:58:07] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> :v
-[22:58:17] [Server thread/INFO]: MIEMBRO byAmbu was shot by Skeleton
-[22:58:18] [Server thread/INFO]: MIEMBRO matoamikita was slain by Spider
-[22:58:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-388, y=69, z=270}
-[22:58:39] [Server thread/INFO]: MIEMBRO byAmbu was shot by Skeleton
-[22:58:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=650, y=70, z=884} jd{x=652, y=68, z=884}
-[22:58:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=652, y=70, z=885} jd{x=653, y=68, z=885}
-[22:59:01] [Server thread/INFO]: Villager cmk['Leatherworker'/36790, l='ServerLevel[world]', x=680.55, y=65.00, z=834.20] died, message: 'Leatherworker was slain by Zombie'
-[22:59:04] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported [ADMIN] Tnzo_Bv to MIEMBRO J0hn356]
-[22:59:32] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported [ADMIN] Tnzo_Bv to -2102.500000, 71.000000, 228.500000]
-[22:59:33] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[22:59:39] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO J0hn356 to [ADMIN] Tnzo_Bv]
-[23:00:04] [Server thread/INFO]: Villager cmk['Leatherworker'/36788, l='ServerLevel[world]', x=688.57, y=74.00, z=901.63] was struck by lightning btm['Lightning Bolt'/40946, l='ServerLevel[world]', x=688.50, y=74.00, z=901.50].
-[23:00:44] [Server thread/INFO]: Villager cmk['Leatherworker'/36789, l='ServerLevel[world]', x=679.67, y=64.00, z=887.29] died, message: 'Leatherworker was slain by Zombie'
-[23:01:23] [Server thread/INFO]: MIEMBRO matoamikita fell from a high place
-[23:03:31] [Server thread/INFO]: Villager cmk['Farmer'/36791, l='ServerLevel[world]', x=680.76, y=69.92, z=889.11] died, message: 'Farmer was slain by Zombie'
-[23:03:38] [Server thread/INFO]: MIEMBRO Saralutte was slain by Zombie
-[23:03:58] [Server thread/INFO]: MIEMBRO Saralutte was slain by Zombie
-[23:04:02] [Server thread/INFO]: MIEMBRO matoamikita fell from a high place
-[23:04:25] [Server thread/INFO]: MIEMBRO Saralutte has made the advancement [Ol' Betsy]
-[23:04:25] [Server thread/INFO]: MIEMBRO Saralutte has made the advancement [Take Aim]
-[23:04:26] [Server thread/INFO]: MIEMBRO Saralutte was slain by Zombie Villager
-[23:04:32] [Server thread/INFO]: Villager cmk['Villager'/44774, l='ServerLevel[world]', x=630.12, y=74.00, z=841.90] died, message: 'Villager was slain by Zombie'
-[23:04:38] [Server thread/INFO]: MIEMBRO Saralutte was slain by Zombie
-[23:04:54] [Server thread/INFO]: MIEMBRO Saralutte was slain by Zombie Villager
-[23:05:11] [Server thread/INFO]: matoamikita lost connection: Timed out
-[23:05:11] [Server thread/INFO]: MIEMBRO matoamikita left the game
-[23:05:34] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[23:05:48] [Server thread/INFO]: byAmbu lost connection: Timed out
-[23:05:48] [Server thread/INFO]: MIEMBRO byAmbu left the game
-[23:05:58] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> saralutte
-[23:06:08] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> k
-[23:06:16] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> quieres unirte al team?
-[23:07:21] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> oki
-[23:07:24] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> XD
-[23:07:33] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
-[23:07:48] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[23:08:02] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[23:08:33] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[23:08:34] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported [ADMIN] Tnzo_Bv to 1202.500000, 70.000000, -1381.500000]
-[23:08:57] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO J0hn356 to [ADMIN] Tnzo_Bv]
-[23:10:07] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:10:33] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:10:43] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported [ADMIN] Tnzo_Bv to -1255.500000, 70.000000, 800.500000]
-[23:10:49] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO J0hn356 to [ADMIN] Tnzo_Bv]
-[23:11:10] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:11:26] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:11:32] [Server thread/INFO]: MIEMBRO J0hn356 has made the advancement [Diamonds!]
-[23:11:56] [Server thread/INFO]: MIEMBRO J0hn356 was shot by Skeleton
-[23:12:01] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO J0hn356 to [ADMIN] Tnzo_Bv]
-[23:12:57] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> te paso cordenadas
-[23:13:10] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> -1256 63 852
-[23:15:12] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> mi casa
-[23:15:57] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[23:16:06] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[23:16:10] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[23:16:14] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> w
-[23:16:26] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> sarulet
-[23:16:33] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[23:16:35] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> dime
-[23:16:38] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> jatea
-[23:16:39] [Server thread/INFO]: [@: Reset [bed] for [ADMIN] Tnzo_Bv]
-[23:16:41] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[23:16:43] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> duerme
-[23:16:45] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> :v
-[23:16:58] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> esk se perdieron mis cosas ;v
-[23:17:00] [Server thread/INFO]: MIEMBRO Saralutte was slain by Spider
-[23:17:03] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:17:08] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO Saralutte to [ADMIN] Tnzo_Bv]
-[23:17:20] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
-[23:17:23] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> esk tenia 20 esmeraldas ;v
-[23:17:27] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> XDDDDDDD
-[23:17:32] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> a
-[23:17:32] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
-[23:20:11] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> minecraft
-[23:22:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1256, y=64, z=818} jd{x=-1258, y=62, z=818}
-[23:22:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1256, y=64, z=818} jd{x=-1258, y=62, z=818}
-[23:22:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1256, y=64, z=818} jd{x=-1258, y=62, z=818}
-[23:22:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1256, y=64, z=818} jd{x=-1258, y=62, z=818}
-[23:22:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1259, y=64, z=820} jd{x=-1260, y=62, z=821}
-[23:25:48] [Server thread/INFO]: Villager cmk['Villager'/49510, l='ServerLevel[world]', x=-1256.30, y=59.00, z=831.52] died, message: 'Villager hit the ground too hard'
-[23:26:21] [Server thread/WARN]: Spruce Boat (vehicle of Tnzo_Bv) moved wrongly! 0.2743623208891677
-[23:26:21] [Server thread/WARN]: Spruce Boat (vehicle of Tnzo_Bv) moved wrongly! 0.3577230856672031
-[23:26:21] [Server thread/WARN]: Spruce Boat (vehicle of Tnzo_Bv) moved wrongly! 0.41953266775090015
-[23:26:21] [Server thread/WARN]: Spruce Boat (vehicle of Tnzo_Bv) moved wrongly! 0.46884222194250924
-[23:28:11] [Server thread/INFO]: MIEMBRO Saralutte has made the advancement [Suit Up]
-[23:28:33] [Server thread/INFO]: Leadnro[/[0:0:0:0:0:0:0:1%0]:60822] logged in with entity id 58555 at (621.5, 89.0, -92.5)
-[23:28:33] [Server thread/INFO]: Leadnro joined the game
-[23:28:38] [Server thread/INFO]: MIEMBRO Saralutte has made the advancement [Isn't It Iron Pick]
-[23:28:45] [Server thread/INFO]: [Not Secure] <Leadnro> c enso
-[23:28:48] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Added MIEMBRO Leadnro to team [MIEMBRO]]
-[23:28:58] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> como se jugaba maincraf
-[23:29:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=616, y=89, z=-93}
-[23:29:02] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> ayuda a tu prima oe
-[23:29:05] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> kknero
-[23:29:11] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> ponme admin eh
-[23:29:20] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> XD
-[23:29:26] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> yo inicie esta compañia
-[23:29:32] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> años
-[23:30:06] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> XD un zombi bebe
-[23:30:17] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> que pillo tio
-[23:30:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1276, y=70, z=735} jd{x=-1275, y=68, z=736}
-[23:30:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1275, y=70, z=737} jd{x=-1276, y=68, z=738}
-[23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1270, y=68, z=740} jd{x=-1273, y=68, z=742}
-[23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1271, y=70, z=740} jd{x=-1273, y=68, z=742}
-[23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1271, y=70, z=740} jd{x=-1273, y=68, z=742}
-[23:31:20] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Monster Hunter]
-[23:32:05] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO Leadnro to [ADMIN] Tnzo_Bv]
-[23:32:10] [Server thread/INFO]: MIEMBRO Leadnro was slain by MIEMBRO Saralutte
-[23:32:13] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> tp
-[23:32:13] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xdddddddd
-[23:32:16] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> aea
-[23:32:18] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO Leadnro to [ADMIN] Tnzo_Bv]
-[23:32:21] [Server thread/INFO]: MIEMBRO Saralutte was shot by Skeleton
-[23:32:25] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XXDCDDDD
-[23:32:27] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> XDDDDD
-[23:32:29] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> y esta base
-[23:32:31] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:32:38] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO Saralutte to [ADMIN] Tnzo_Bv]
-[23:32:41] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> de kien es para detonarla
-[23:32:45] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Getting an Upgrade]
-[23:32:46] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Stone Age]
-[23:32:48] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Suit Up]
-[23:33:05] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Take Aim]
-[23:33:11] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> estem
-[23:33:13] [Server thread/INFO]: MIEMBRO Saralutte was slain by Iron Golem
-[23:33:14] [Server thread/INFO]: MIEMBRO Leadnro was slain by Zombie
-[23:33:17] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[23:33:18] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
-[23:33:21] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> XDDDD
-[23:33:21] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> este,
-[23:33:25] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> bro mis cosas
-[23:33:25] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> como se jugaba
-[23:33:26] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO Saralutte to [ADMIN] Tnzo_Bv]
-[23:33:29] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO Leadnro to [ADMIN] Tnzo_Bv]
-[23:33:36] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> un tpsito
-[23:33:46] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO J0hn356 to [ADMIN] Tnzo_Bv]
-[23:34:16] [Server thread/INFO]: MIEMBRO Saralutte was slain by Iron Golem
-[23:34:27] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> paren de morir tios
-[23:34:42] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> y jm no entro ;v
-[23:34:50] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> bau
-[23:34:56] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> entro?
-[23:35:00] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> no
-[23:35:00] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> xd
-[23:35:14] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> esta de viaje creo
-[23:35:31] [Server thread/INFO]: [ADMIN] Tnzo_Bv was slain by Iron Golem
-[23:35:36] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> XD
-[23:35:52] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> xd
-[23:37:09] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> enso piensas dormir
-[23:37:13] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> con mi prima
-[23:37:14] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> falta un ahumador aca
-[23:37:18] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> e?
-[23:37:23] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> ahumador
-[23:37:24] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> xd
-[23:37:24] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> eso dije
-[23:37:29] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> tiene ocho no dizzzes para un poco
-[23:37:31] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> ola
-[23:37:32] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> pa la comida
-[23:37:37] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> kknero
-[23:37:38] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> nrd
-[23:37:42] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> mrd deja de matar
-[23:37:47] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> tiene 12 xasdad
-[23:38:10] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> no bajen vida p
-[23:38:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1285, y=69, z=707} jd{x=-1286, y=67, z=707}
-[23:38:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1285, y=69, z=707} jd{x=-1286, y=67, z=707}
-[23:39:26] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> Saralutte que piensas hacer?
-[23:39:50] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> conseguir hierro ;v ps creo que tu me lo quitaste XDXDXDXDXDXD
-[23:39:51] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> falto q entrara gabriel dayron bauti y alex
-[23:39:58] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> alex
-[23:40:01] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> latex
-[23:40:04] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> esta con 400 mb en descarga
-[23:40:15] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> le falta 100 mb XDXDXD
-[23:40:20] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> :v
-[23:40:20] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> yba b¿
-[23:40:45] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> me acostumbre a escribir con la Y o U
-[23:40:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1289, y=64, z=863} jd{x=-1288, y=63, z=862}
-[23:40:51] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> :v
-[23:40:58] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> chevere
-[23:41:07] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> aca te haces el piola no
-[23:41:10] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> kagada
-[23:41:20] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> donde es aca
-[23:41:27] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> en mi
-[23:41:34] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> ok no digo nada
-[23:41:44] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> dile a la tia elena todo lo que dice este wbon
+[00:00:27] [Server thread/INFO]: [ADMIN] Tnzo_Bv was slain by Iron Golem
+[00:03:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1122, y=49, z=-1437} jd{x=-1122, y=48, z=-1437}
+[00:03:49] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> DIA 1 DEL SERVIDOR (FINAL
+[00:03:53] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> XD
+[00:04:10] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> a la noche no se conecta nadie :v
+[00:04:26] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> mejor era 6pm
+[00:04:28] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> para todos
+[00:04:32] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> q dices
+[00:04:39] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> a esa hora tods estan libre
+[00:04:46] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> si los que entraron solo entraron 1 hora
+[00:04:49] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> o 2
+[00:05:29] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> oe
+[00:05:34] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> q
+[00:05:38] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> gabriel vino a mi casa xd
+[00:05:42] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> me dijo enzo perdoname
+[00:05:46] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> mas mierda
+[00:05:46] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> y ke fue dxdx
+[00:05:49] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> se fue con nicole p
+[00:05:50] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> se fue con nicole
+[00:05:52] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> dsxd
+[00:05:56] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> pollera
+[00:06:01] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> si dijo ayer
+[00:06:15] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> dijo hace dias q podia jugar hoy
+[00:06:21] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> xdd
+[00:06:24] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> asi es p
+[00:06:29] [Server thread/INFO]: MIEMBRO J0hn356 has made the advancement [Ol' Betsy]
+[00:06:32] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> abeces te salen cosas de la na
+[00:06:33] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> da
+[00:06:42] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> puede se
+[00:07:02] [Server thread/INFO]: [Not Secure] <MIEMBRO Saralutte> XDXDXXDXXDDXDXDXDXDXDXDXDXDXDXXDXDXDDXXDXDXDXDXDXDXDXDXDXDDXDDXDXDXDXXDXDXDXDXDXDXXDXDXDXDXDDXDXDXXD
+[00:07:05] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> sa
+[00:07:07] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> sara
+[00:07:08] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> q fue
+[00:07:40] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Ice Bucket Challenge]
+[00:08:15] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Isn't It Iron Pick]
+[00:09:37] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> local enzo = gepos
+[00:09:42] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> che
+[00:09:47] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> qye
+[00:09:50] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> print me llega a la pinga
+[00:09:53] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> xdd
+[00:09:54] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> oe
+[00:09:57] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> cvasdasd
+[00:10:06] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> che
+[00:10:16] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> que che cha
+[00:12:28] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO J0hn356]
+[00:12:32] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> duerman
+[00:12:34] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Not Today, Thank You]
+[00:12:42] [Server thread/WARN]: Saralutte moved too quickly! 2.5470278895001,-9.127242061530353,-5.095943687638737
+[00:13:03] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> conscript
+[00:14:30] [Server thread/INFO]: MIEMBRO J0hn356 has made the advancement [Hot Stuff]
+[00:14:37] [Server thread/INFO]: [Not Secure] <MIEMBRO J0hn356> jeje
+[00:15:22] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
+[00:15:24] [Server thread/INFO]: MIEMBRO Leadnro has made the advancement [Sweet Dreams]
+[00:15:24] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Leadnro]
+[00:15:27] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
+[00:15:41] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
+[00:15:46] [Server thread/INFO]: [@: Reset [bed] for MIEMBRO Saralutte]
+[00:17:28] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> tiene lava?
+[00:17:39] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> solo me falta eso para la granja de hierro xd
+[00:18:05] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> me he huelto un jugador mas maduro
+[00:18:26] [Server thread/INFO]: [Not Secure] <[ADMIN] Tnzo_Bv> q estas diciendo tio
+[00:18:35] [Server thread/INFO]: [Not Secure] <MIEMBRO Leadnro> la verdad chabal
+[00:21:27] [Server thread/INFO]: [[ADMIN] Tnzo_Bv: Teleported MIEMBRO J0hn356 to [ADMIN] Tnzo_Bv]
